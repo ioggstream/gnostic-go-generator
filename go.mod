@@ -3,7 +3,7 @@ module github.com/ioggstream/gnostic-go-generator
 require (
 	github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815
 	github.com/golang/protobuf v1.3.1
-	github.com/googleapis/gnostic master
+	github.com/ioggstream/gnostic v0.4.0
 	github.com/gorilla/mux v1.7.2
 	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
